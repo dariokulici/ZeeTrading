@@ -1,0 +1,13 @@
+Copyright (C) Dario Kulici - 2025
+
+This software is protected by copyright and is the property of Dario Kulici. It is intended exclusively for private and internal use.
+
+The use, reproduction, distribution, modification, or transfer of this software is strictly prohibited without the prior written consent of Dario Kulici.
+
+Only persons authorized by Dario Kulici through a separate written invitation are permitted to edit this software.  Unauthorized editing or modification of this software is considered a violation of copyright and will result in legal consequences.
+
+This software is provided “AS IS” without any warranty, either express or implied.
+
+Any request to use, modify, or distribute this software must be made in writing to dario.kulici@gmx.ch.
+
+Dario Kulici
